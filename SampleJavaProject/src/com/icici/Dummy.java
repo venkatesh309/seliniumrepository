@@ -7,7 +7,6 @@ public class Dummy
 	{
 		System.out.println("This class is dummy");
 		System.out.println("hi");
-		System.out.println("hello");
 
 	}
 
