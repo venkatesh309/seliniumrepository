@@ -2,6 +2,7 @@ package com.icici;
 
 public class Dummy 
 {
+	int x=100,y=200,z;
 
 	public static void main(String[] args)
 	{
